@@ -1,4 +1,6 @@
-# Ultrasonic-Distance-Sensor-with-LED-and-Button
+# CODE IS CURRENTLY INCOMPLETE, WILL RETURN TO FINISH. ANY HELPFUL INPUT IS VERY MUCH APPRECIATED
+
+Ultrasonic-Distance-Sensor-with-LED-and-Button
 Raspberry Pi project of an Ultrasonic Distance Sensor with LED and Button 
 
 I have created a model of an Ultrasonic Distance Sensor with a button to activate the sensor portion along with an LED to light up once a certain distance has been reached. 
